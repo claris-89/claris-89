@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, my name is Clara Isabel Arredondo 👋
 
 <!--
 **claris-89/claris-89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
